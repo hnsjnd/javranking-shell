@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JavRanking</string>
+    <string name="menu_refresh">刷新</string>
+    <string name="menu_home">首页</string>
+    <string name="menu_open_browser">在浏览器打开</string>
+    <string name="menu_clear_cache">清除缓存</string>
+    <string name="menu_desktop_ua">桌面版网站</string>
+    <string name="cache_cleared">缓存已清除</string>
+    <string name="home_url">https://javranking.cc/zh-hans/</string>
+</resources>
